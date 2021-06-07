@@ -16,7 +16,7 @@ def hopper
         }
      }
 
-
+programmer_hash[:grace_hopper]
 end
 
 def alan_kay_is_known_for
@@ -102,7 +102,7 @@ def changing_alan
      #change what Alan Kay is :known_for to the value of the alans_new_info variable.
      alans_new_info = "GUI"
 
-     
+
 
 end
 
